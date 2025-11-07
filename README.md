@@ -19,3 +19,6 @@ Files:
   Verify:
    - Visit: https://remiishola.github.io
   
+Need help? Connect via email, phone or LinkedIn.
+
+GitHub: github.com/RemiIshola LinkedIn: linkedin.com/in/remiactive Email: remiishola@proton.me Alt Email: isholaoluwaremilekunoluwatobil@gmail.com Phone: +234 912 133 3552 Wix: remiishola.wixsite.com/remiishola 
