@@ -53,6 +53,9 @@ If you already created the repo `remiishola.github.io`, follow these steps. If n
 
 6. Verify:
    - Visit: https://remiishola.github.io
+  
+   - Update README.md (trivial change to force rebuild)
+
 
 Notes:
 - The contact form in this static package is a demo. To receive messages, wire it to a form service (Formspree, Netlify Forms, or your own backend).
