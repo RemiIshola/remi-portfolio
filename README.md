@@ -54,14 +54,7 @@ If you already created the repo `remiishola.github.io`, follow these steps. If n
 6. Verify:
    - Visit: https://remiishola.github.io
   
-   - Update README.md (trivial change to force rebuild)
-Update README.md (trivial change to force rebuild)
 
-
-Notes:
-- The contact form in this static package is a demo. To receive messages, wire it to a form service (Formspree, Netlify Forms, or your own backend).
-- You can change colors and text in `styles.css` and `index.html`.
-- If you want, I can commit and push these files directly for you — provide a Personal Access Token (PAT) with repo permissions or add me as a collaborator. I can also provide exact git commands for your environment.
 
 Need help?
 - Tell me if you'd like me to push the files directly to your repo (I will guide on how to create a PAT securely), or I can walk you through the steps while you copy/paste commands.
