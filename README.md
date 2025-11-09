@@ -1,7 +1,5 @@
 Remi Ishola — Portfolio (Final)
-===============================
-
-This package contains a ready-to-upload static portfolio site for GitHub Pages.
+===========================
 
 Files:
 - index.html
